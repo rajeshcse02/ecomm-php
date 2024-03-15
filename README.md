@@ -9,7 +9,7 @@ This repository contains code for an eCommerce website built using PHP and MySQL
 ### Step 1: Clone the Repository
 Clone this repository using the following command:
 
-`git clone https://github.com/your-username/your-repository.git`
+`git clone https://github.com/rajeshcse02/ecomm-php.git`
 
 
 ### Step 2: Install XAMPP

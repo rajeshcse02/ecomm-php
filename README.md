@@ -1,4 +1,6 @@
 # ECommerce Website with PHP and MySQL
+![image](https://github.com/rajeshcse02/ecomm-php/assets/115474222/ba47c783-2671-4f88-aa80-d20c821b043c)
+
 
 This repository contains code for an eCommerce website built using PHP and MySQL.
 

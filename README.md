@@ -11,9 +11,12 @@ Clone this repository using the following command:
 
 `git clone https://github.com/rajeshcse02/ecomm-php.git`
 
+Make sure you have installed `GIT` in your system.
+
 
 ### Step 2: Install XAMPP
 Download and install XAMPP from the internet. Start the Apache Tomcat server and MySQL in the XAMPP application.
+If you were already Installed MySql Separately, uninstall it.
 
 ### Step 3: Move Project Folder
 Extract the project zip folder cloned from Git and move the project folder to the XAMPP directory:
